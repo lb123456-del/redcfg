@@ -1,3 +1,3 @@
 #red-config的测试配置文件
 red:
-  remark: 这是red-config测试的配置文件
+  remark: 这是red-config测试的配置文件,通过客户端自动刷新配置文件
