@@ -1,0 +1,3 @@
+#red-config的生产者配置文件
+red:
+  remark: 这是red-config生产者的配置文件
